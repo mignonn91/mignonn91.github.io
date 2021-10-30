@@ -87,4 +87,4 @@ gem 'jekyll-admin', group: :jekyll_plugins
 [git Blog 만들기] <https://honbabzone.com/jekyll/start-gitHubBlog/#step-3-%EB%A1%9C%EC%BB%AC-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%A3%A8%EB%B9%84%EC%84%A4%EC%B9%98> <br>[Git 에러 CRLF will be replaced by LF] https://blog.jaeyoon.io/2018/01/git-crlf.html
 
 ## Comment
-Tistory와 NaverBlog에서 느꼈던 **부족함**을 해결하기 위해 본 과정을 진행하였다.<br>Github Blog를 제작하기 위해서는 **HTML**, **CSS**, **Node.js** 그리고 **Markdown 문서**에 대한 공부가 매우 필요하다. <br>현재로서는 폭 넓은 사용이 **불가능**하다.<br>Github Blog의 사용을 **보류**한다.<br>왜 안올라가는 걸까요?
+Tistory와 NaverBlog에서 느꼈던 **부족함**을 해결하기 위해 본 과정을 진행하였다.<br>Github Blog를 제작하기 위해서는 **HTML**, **CSS**, **Node.js** 그리고 **Markdown 문서**에 대한 공부가 매우 필요하다. <br>현재로서는 폭 넓은 사용이 **불가능**하다.<br>Github Blog의 사용을 **보류**한다.
